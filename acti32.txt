@@ -1,0 +1,3 @@
+se crea el archivo acti32.txt
+se añade una segunda linea al archivo acti32.txt
+se añade una tercera linea al archivo acti32.txt
