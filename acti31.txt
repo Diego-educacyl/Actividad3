@@ -1,3 +1,5 @@
 se crea el archivo acti31.txt
 se añade una segunda linea al archivo acti31.txt
 se añade una tercera linea al archivo acti31.txt
+se añade un cuarta linea al archivo acti31.txt
+se añade un quinta linea al archivo acti31.txt
